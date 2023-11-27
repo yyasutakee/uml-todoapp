@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T21:14:03.616Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NxlS5xdsPhIGz9RFGvuF" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T21:14:27.399Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1oxpkWAU9fz_0P4SDYgD" version="22.1.4" type="github">
   <diagram name="Page-1" id="ciXoBDTXdjDo0w0JCOVY">
     <mxGraphModel dx="1722" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,6 +72,12 @@
         </mxCell>
         <mxCell id="WeG9BymHyUoyGSbdJxct-4" value="DataAccess" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WeG9BymHyUoyGSbdJxct-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WeG9BymHyUoyGSbdJxct-6" target="WeG9BymHyUoyGSbdJxct-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WeG9BymHyUoyGSbdJxct-6" value="DataAccessCoreData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
