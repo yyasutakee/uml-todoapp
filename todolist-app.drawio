@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T10:08:08.125Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9Mz8RtqvkinRG7E77nLm" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T10:09:45.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="92X-VJQ3su9nvqff36AB" version="22.1.4" type="github">
   <diagram name="Page-1" id="ciXoBDTXdjDo0w0JCOVY">
     <mxGraphModel dx="1904" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
           <mxGeometry x="1450" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FYpgdL6jyFwIBexk85u1-6" value="Model (Redux)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FYpgdL6jyFwIBexk85u1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FYpgdL6jyFwIBexk85u1-12" target="vHhtILDTzsJ_Ge8vEEF7-30">
           <mxGeometry relative="1" as="geometry" />
@@ -258,6 +258,12 @@
         </mxCell>
         <mxCell id="FYpgdL6jyFwIBexk85u1-19" value="ios modular architecture project" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-255" y="428" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FYpgdL6jyFwIBexk85u1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FYpgdL6jyFwIBexk85u1-21" target="FYpgdL6jyFwIBexk85u1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FYpgdL6jyFwIBexk85u1-21" value="Model (Imperative)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
